@@ -7,5 +7,7 @@ these scripts to install programs on a new system, without going through a backu
 
 ## Usage
 `git clone https://github.com/EricMarcantonio/useful-installation-scripts.git`
+
 `cd useful-installation-scripts`
+
 `run-parts --regex '^.*sh$' ./`
